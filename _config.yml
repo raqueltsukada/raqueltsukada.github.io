@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "foto raquel prof - Copy2.jpg"
+  avatar           : "foto raquel prof - Copy2.JPG"
   name             : "Raquel Tsukada"
   pronouns         : "she/her"  
   bio              : "Economist"
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : "https://worldbank.academia.edu/RaquelTsukada"
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0002-5721-3002"
