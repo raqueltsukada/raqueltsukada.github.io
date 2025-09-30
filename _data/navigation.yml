@@ -11,8 +11,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-#  - title: "Media"
-#    url: /talks/    
+  - title: "Media"
+    url: /talks/    
 
 #  - title: "Teaching"
 #    url: /teaching/    
@@ -29,5 +29,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Media"
-    url: /markdown/
+#  - title: "Guide"
+#   url: /markdown/
