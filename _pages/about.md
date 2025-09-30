@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I work on the design and implementation of social protection and labor market policies policies. Here, I share my academic and policy writing.
+Hi! I work on the design and implementation of social protection and labor market policies. Here I share my academic and policy writing.
 
 ------
