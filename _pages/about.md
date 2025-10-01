@@ -9,6 +9,6 @@ redirect_from:
 
 ------
 
-Hi! I work on the design and implementation of social protection and labor market policies. Here I share my academic and policy writing.
+I work on the design and implementation of social protection and labor market policies. Here I share my academic and policy writing.
 
 ------
